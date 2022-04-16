@@ -494,7 +494,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-title": {
-              "color": "#e6c63b"
+              "color": "#ffc60a"
             },
             ".mbr-section-subtitle": {
               "color": "#ffc60a"
